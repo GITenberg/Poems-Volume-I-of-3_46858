@@ -1,4 +1,5 @@
 _repo: Poems-Volume-I-of-3_46858
+_version: 0.1.0
 contributor:
   creator:
     editor:
@@ -9,6 +10,9 @@ contributor:
       gutenberg_agent_id: '1242'
       url: http://www.gutenberg.org/2009/agents/1242
       wikipedia: http://en.wikipedia.org/wiki/Adolphus_William_Ward
+covers:
+- cover_type: archival
+  image_path: 46858-h/images/cover.jpg
 creator:
   author:
     agent_name: Crabbe, George
@@ -18,6 +22,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1725
     wikipedia: http://en.wikipedia.org/wiki/George_Crabbe
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/46858#Poems-Volume-I-of-3
 gutenberg_issued: '2014-09-14'
 gutenberg_type: Text
 identifiers:
